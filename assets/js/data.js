@@ -409,6 +409,7 @@ window.CV = {
 
   /* ---------- System demos (YouTube video IDs) ---------- */
   demos: [
+    { id: "QCoxvTgt-Yg", title: "The mastermind behind Foxconn's NT$5 million acquisition of AI fish farming technology has been revealed." },
     { id: "9Dwp6oF8DuA", title: "Self-Attention Deep Neural Network for Vehicle Tracking" },
     { id: "qd5Ep31tGzA", title: "OpenPose-Based Sexual Maturity Analysis of Cobia Broodstock" },
     { id: "Bo0YbVjyI50", title: "Single-Stage Instance Segmentation for Fish Information Analysis" },
